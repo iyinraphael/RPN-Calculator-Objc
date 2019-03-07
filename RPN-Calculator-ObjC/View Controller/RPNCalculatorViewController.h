@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RPNCalculatorViewController.h
 //  RPN-Calculator-ObjC
 //
 //  Created by Iyin Raphael on 3/7/19.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface RPNCalculatorViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
